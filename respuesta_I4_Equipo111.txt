@@ -8,3 +8,22 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 Azul porque yo solucione el conflicto
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Quedo en todos el de Beta
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, Beta tuvo problemas 
+F- ¿Qué problemas surgieron?
+El conflicto fue: ! [rejected]        TESTING -> TESTING (fetch first)
+error: failed to push some refs to 'https://github.com/luli-pok/TP_SO_I4_Equipo_111.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Que Beta actualize y solucione el conflicto con un nano y luego recien ahi hacer un push. El problema es que se utilizo mas tiempo de lo que hubiera requerido
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Quedaron solo los cambios que hizo el ultimo que los subio
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Que trabajen en orden, con comunicacion, que no suban todo a la vez y que haga los pull y push como e es devido
+
