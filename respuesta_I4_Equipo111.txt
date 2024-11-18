@@ -1,2 +1,10 @@
 Pokoik Lucia Laura
 Perez Alejo 
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul porque no se cambio
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Quedo amarillo, porque no se cambio
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Azul porque yo solucione el conflicto
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedo en todos el de Beta
